@@ -3,7 +3,6 @@ header{
     background-image: url("../img/pattern.png");
     height: 150PX;
     background-color: rgb(122, 128, 246);
-    
 }
 
 
@@ -17,12 +16,11 @@ margin-top: 100px;
 margin-left: 5px; 
 }
 
-
-    
-
-
-.foto  {
+.foto {
     
     display: inline-block;
-    
+}
+
+.evidensiatore{
+    background-color: yellow;
 }
