@@ -3,16 +3,26 @@ header{
     background-image: url("../img/pattern.png");
     height: 150PX;
     background-color: rgb(122, 128, 246);
+    
 }
 
 
-
-span{
+span {
 color: blue;
 }
 
-img{
-    display: inline;
-    width: 50%;
-    margin-top: 0px
+.logo{    
+width: 150px;
+margin-top: 100px;
+margin-left: 5px; 
+}
+
+
+    
+
+
+.foto  {
+    
+    display: inline-block;
+    
 }
