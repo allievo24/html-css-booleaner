@@ -24,3 +24,23 @@ margin-left: 5px;
 .evidensiatore{
     background-color: yellow;
 }
+
+.tabella{
+    width: 1200px;
+    background-color: rgb(85, 85, 210);
+    
+}
+
+.sinistra{
+    display: inline-block;
+    width:25% ;
+}
+
+.destra{
+    display: inline-block;
+    width: 25%;
+}
+.centrale{
+    display: inline-block;
+    width:40% ;
+}
